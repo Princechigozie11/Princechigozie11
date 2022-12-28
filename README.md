@@ -1,4 +1,4 @@
-[![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)]
+![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)
 <h1 align="center">Hello<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">My name is Prince Chigozie!</h1>
 <h3 align="center">A Passionate Frontend Developer From Nigeria</h3>
 ============================================================================================
