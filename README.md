@@ -1,6 +1,6 @@
 ![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)
 <h1 align="center">Hello<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">My name is Prince Chigozie!</h1>
-<h3 align="center">A Passionate Frontend Developer From Nigeria</h3>
+<h3 align="center">A Passionate Full Stack Web Developer From Nigeria</h3>
 ============================================================================================
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princechigozie11&label=Profile%20views&color=0e75b6&style=flat" alt="princechigozie11" /> </p>
